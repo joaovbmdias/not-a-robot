@@ -1,0 +1,8 @@
+title: Not-a-robot
+description: Repository for AI, Machine Learning and Neural Network Stuff
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
